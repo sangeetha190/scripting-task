@@ -27,9 +27,9 @@
 - s/give/learning/g → This is the substitution command:
    - s/old/new/g → Replaces "give" with "learning".
    - The g at the end ensures all occurrences in a line are replaced
-- ##Before 
+- ## Before 
 ![Screenshot 2025-02-23 235348](https://github.com/user-attachments/assets/147fc9e2-c836-47a8-bc4e-3da7f361743c)
 
-- ##After command executed
+- ## After command executed
 ![image](https://github.com/user-attachments/assets/cf16c4c6-86c0-40f5-a542-fe6814e9bff1)
 ![image](https://github.com/user-attachments/assets/0184a1c1-7dc6-4afa-bc7e-95dc6bfcb403)
